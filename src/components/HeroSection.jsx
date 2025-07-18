@@ -8,12 +8,12 @@ import "swiper/css";
 const slides = [
   {
     title: "Service AC Profesional Sidoarjo dan Surabaya",
-    desc: "Kami melayani service AC, kulkas, mesin cuci, listrik, dan jual beli AC dengan harga bersaing dan bergaransi.",
+    desc: "Kami melayani service AC, kulkas, mesin cuci, elektronik, dan jual beli dengan harga bersaing dan bergaransi.",
     img: "/hero-image.webp",
   },
   {
     title: "Teknisi Berpengalaman",
-    desc: "Ditangani langsung oleh teknisi berpengalaman dan bersertifikat.",
+    desc: "Dikerjakan langsung oleh teknisi yang sudah berpengalaman.",
     img: "/hero-image2.webp",
   },
   {

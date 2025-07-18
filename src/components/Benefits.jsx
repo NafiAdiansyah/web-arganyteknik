@@ -4,12 +4,12 @@ const KEUNGGULAN = [
   {
     icon: "🤝",
     title: "Amanah",
-    description: "Telah dipercaya lebih dari 1000 klien di Kantor dan Rumah Pribadi.",
+    description: "Telah dipercaya lebih dari banyak klien di Kantor dan Rumah Pribadi.",
   },
   {
     icon: "👔",
     title: "Profesional & Berpengalaman",
-    description: "Dikerjakan tim ahli dan profesional.",
+    description: "Dikerjakan tim ahli yang berpengalaman dan profesional.",
   },
   {
     icon: "🕒",
@@ -19,7 +19,7 @@ const KEUNGGULAN = [
   {
     icon: "💬",
     title: "Gratis Konsultasi",
-    description: "Konsultasikan kepada kami masalah yang Anda alami.",
+    description: "Konsultasikan kepada kami masalah yang anda alami.",
   },
   {
     icon: "💯",

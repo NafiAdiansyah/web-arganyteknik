@@ -1,12 +1,12 @@
 import React from "react";
 
 const images = [
-  "/hero-image.webp",
-  "/hero-image2.webp",
-  "/hero-image3.webp",
-  "/hero-image.webp",
-  "/hero-image2.webp",
-  "/hero-image3.webp",
+  "/gallery-1.webp",
+  "/gallery-2.webp",
+  "/gallery-3.webp",
+  "/gallery-4.webp",
+  "/gallery-5.webp",
+  "/gallery-6.webp",
 ];
 
 const Gallery = () => {

@@ -14,7 +14,7 @@ const ContactSection = () => {
         <div data-aos="fade-left">
           <iframe
             title="Lokasi Argany Teknik"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3956.7838971910382!2d112.61085807318706!3d-7.378100072616254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e780823daf6163f%3A0xc7112a2483e7e361!2sPerumahan%20Alam%20Pesona%201!5e0!3m2!1sid!2sid!4v1752752553442!5m2!1sid!2sid"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3956.8204083292976!2d112.6113391!3d-7.374015999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7809cafb0f6d23%3A0x2f0b04a5c6c9853d!2sARGANY%20TEKNIK!5e0!3m2!1sid!2sid!4v1752851791083!5m2!1sid!2sid"
             width="100%"
             height="300"
             allowFullScreen=""
