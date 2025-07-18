@@ -8,7 +8,7 @@ const ContactSection = () => {
           <h3 className="text-2xl font-bold text-blue-800 mb-4">Kontak Kami</h3>
           <p className="text-gray-700 mb-2">Alamat: Alam Pesona Blok U No.27 Krian, Sidoarjo</p>
           <p className="text-gray-700 mb-2">Telepon: 0895-1876-1770</p>
-          <p className="text-gray-700 mb-6">Email: arganyteknik@gmail.com</p>
+          <p className="text-gray-700 mb-6">Email: gondolkpg22@gmail.com</p>
           <a href="https://wa.me/6289518761770" className="inline-block bg-green-500 text-white py-2 px-4 rounded hover:bg-green-600">Hubungi via WhatsApp</a>
         </div>
         <div data-aos="fade-left">
