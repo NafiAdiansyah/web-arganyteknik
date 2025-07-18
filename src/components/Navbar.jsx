@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <header className="sticky top-0 z-50 bg-white shadow">
-      <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
+      <div className="max-w-7xl mx-auto px-4 py-3 flex flex-col md:flex-row justify-center md:justify-between items-center text-center md:text-left gap-2">
         <h1 className="text-xl font-bold text-blue-800">ARGANY TEKNIK</h1>
         <nav className="space-x-4 hidden font-medium md:flex">
           <a href="#layanan" className="text-gray-800 hover:text-blue-800">Layanan</a>
